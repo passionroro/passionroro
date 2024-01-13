@@ -1,10 +1,54 @@
-# 💫 About Me
-🔭 I’m currently working on :<br>- fftconvolve.cpp : implementing a Fast Fourier Algorithm for Machine Learning<br>- webserv : recreating a C++ 98 web server<br>👯 I’m looking to collaborate on a Machine Learning project related to ecology <br>🌱 I'm currently studying C++ at 42 Lausanne and learning Deep Learning on the side.
+<div align="center">
+<h1>Welcome ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<img src="passionroro.gif" width="150"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/romainhoarau/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a> 
+</div>
+
+# About me
+
+Nice to meet you ! I am a young and cheerful person that studied computer science at [42 school](https://42.fr/en/homepage/)
+
+I find programming a bit like doing little puzzles all day long (and I love it) ! 
+
+# Projects
+
+## School projects
+
+> [transcendence]() : creating a single page application to play pong !
+
+> [webserv](https://github.com/passionroro/42cursus-webserv) : creating a C++ 98 web server
+
+> [minishell](https://github.com/passionroro/42cursus-minishell) : creating our own shell in C
+
+> [push_swap](https://github.com/passionroro/42cursus-push_swap) : discovering the wonder of sorting algorithms 
+
+## In progress
+
+> [fftconvolve.cpp](https://github.com/passionroro/fftconvolve.cpp) : implementing a Fast Fourier Algorithm for Machine Learning
+
+> [crossword]() : recreating a scratch game that I like
+
+## Other
+
+> Creating a website for our student association. Still up [here](https://bde42lausanne.github.io/) or [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)! 
+
+<div align="center">
+	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzg2aGw0cnYxMHhpd3d6NmplZ3llb3h0N3I3bGYzcHk0dWs3NHBsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DIcCGYojyzcECsaWct/giphy.gif" alt="gif made by Ruppert Tellac" height="75">
+</div>
+
+# Tech Stack
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+# GitHub Stats
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=passionroro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/romainhoarau/) 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
