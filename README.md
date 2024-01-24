@@ -13,19 +13,23 @@ I find programming a bit like doing little puzzles all day long (and I love it) 
 
 # Projects
 
+I've made a little site to help you visualize my projects, i hope it's still up ! Check it out [here](https://passionroro.github.io/)
+
 ## School projects
 
-> [transcendence]() : creating a single page application to play pong !
+I learned programming by project. There are about 20 projects, but these are the most important to me :
+
+> [transcendence](https://github.com/passionroro/transcendence-pub) : creating a single page application to play pong !
 
 > [webserv](https://github.com/passionroro/42cursus-webserv) : creating a C++ 98 web server
 
-> [minishell](https://github.com/passionroro/42cursus-minishell) : creating our own shell in C
+> [minishell](https://github.com/passionroro/42cursus-minishell) : creating our own shell in C (the hardest in my opinion)
 
-> [push_swap](https://github.com/passionroro/42cursus-push_swap) : discovering the wonder of sorting algorithms 
+> [push_swap](https://github.com/passionroro/42cursus-push_swap) : discovering the wonders of sorting algorithms 
 
 ## In progress
 
-> [fftconvolve.cpp](https://github.com/passionroro/fftconvolve.cpp) : implementing a Fast Fourier Algorithm for Machine Learning
+> [fftconvolve.cpp](https://github.com/passionroro/fftconvolve.cpp) : implementing a Fast Fourier Algorithm for Machine Learning (because why not)
 
 > [crossword]() : recreating a scratch game that I like
 
