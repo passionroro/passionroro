@@ -2,7 +2,7 @@
 <h1>Welcome ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <img src="passionroro.gif" width="150"/>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/romainhoarau/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/romainhoarau/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a> 
 </div>
 
 # About me
