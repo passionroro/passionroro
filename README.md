@@ -33,6 +33,10 @@ I learned programming by project. There are about 20 projects, but these are the
 
 > [crossword]() : recreating a scratch game that I like
 
+> creation of a brainfuck interpreter and reader 
+
+> website for an environmental association
+
 ## Other
 
 > Creating a website for our student association. Still up [here](https://bde42lausanne.github.io/) or [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)! 
