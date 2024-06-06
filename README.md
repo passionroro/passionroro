@@ -33,9 +33,9 @@ I learned programming by project. There are about 20 projects, but these are the
 
 > [crossword]() : recreating a scratch game that I like
 
-> creation of a brainfuck interpreter and reader 
+> creation of a brainfuck interpreter and reader for an art project (can't wait to show this one)
 
-> website for an environmental association
+> website for an environmental association - should be done by the end of June
 
 ## Other
 
