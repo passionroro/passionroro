@@ -13,11 +13,13 @@ I find programming a bit like doing little puzzles all day long (and I love it) 
 
 # Projects
 
-I've made a little site to help you visualize my projects, i hope it's still up ! Check it out [here](https://passionroro.github.io/)
+I've made a little site to help you visualize my projects, i hope it's still up ! Check it out [here](https://passionroro.github.io/) (it's really cool you should check it out I'm serious)
 
 ## School projects
 
-I learned programming by project. There are about 20 projects, but these are the most important to me :
+I learned programming by project. There are about **20 projects**, but these are the most important to me :
+
+> [ft_malcolm](https://github.com/passionroro/42cursus-ft_malcolm) : creating a man-in-the-middle attack
 
 > [transcendence](https://github.com/passionroro/transcendence-pub) : creating a single page application to play pong !
 
@@ -27,11 +29,19 @@ I learned programming by project. There are about 20 projects, but these are the
 
 > [push_swap](https://github.com/passionroro/42cursus-push_swap) : discovering the wonders of sorting algorithms 
 
+## Done
+
+> [fullstack website]() - made a  complete website for an association ! frontend/backend/database, everything !
+
 ## In progress
 
-> [fftconvolve.cpp](https://github.com/passionroro/fftconvolve.cpp) : implementing a Fast Fourier Algorithm for Machine Learning (because why not)
+> [cybersecurity]() : currently learning cybersecurity. damn I love it. **follow my progress on my website!!!**
 
-> [crossword]() : recreating a scratch game that I like
+> [art project]() : creating a turing complete programming language in **tricot**. Yes, tricot. Please ask me about this I can talk about this project for hours !!
+
+> [art project 2]() : playing music / creating visuals with code. lovely.
+
+> [fftconvolve.cpp](https://github.com/passionroro/fftconvolve.cpp) : implementing a Fast Fourier Algorithm for Machine Learning (because why not) (I will probably never finish it tho)
 
 > creation of a brainfuck interpreter and reader for an art project (can't wait to show this one)
 
