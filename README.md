@@ -13,7 +13,7 @@ I find programming a bit like doing little puzzles all day long (and I love it) 
 
 # Projects
 
-I've made a little site to help you visualize my projects, i hope it's still up ! Check it out [here](https://passionroro.github.io/) (it's really cool you should check it out I'm serious)
+I've made a little site to help you visualize my projects, i hope it's still up ! Check it out [here](https://passionroro.github.io/)
 
 ## School projects
 
@@ -29,7 +29,7 @@ I learned programming by project. There are about **20 projects**, but these are
 
 > [push_swap](https://github.com/passionroro/42cursus-push_swap) : discovering the wonders of sorting algorithms 
 
-## Done
+## Personal projects
 
 > [fullstack website]() - made a  complete website for an association ! frontend/backend/database, everything !
 
@@ -39,13 +39,11 @@ I learned programming by project. There are about **20 projects**, but these are
 
 > [art project]() : creating a turing complete programming language in **tricot**. Yes, tricot. Please ask me about this I can talk about this project for hours !!
 
+> [ft_matcha]() : fullstack project. creating a dating app !
+
 > [art project 2]() : playing music / creating visuals with code. lovely.
 
 > [fftconvolve.cpp](https://github.com/passionroro/fftconvolve.cpp) : implementing a Fast Fourier Algorithm for Machine Learning (because why not) (I will probably never finish it tho)
-
-> creation of a brainfuck interpreter and reader for an art project (can't wait to show this one)
-
-> website for an environmental association - should be done by the end of June
 
 ## Other
 
@@ -59,7 +57,7 @@ I learned programming by project. There are about **20 projects**, but these are
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![VueJS](https://img.shields.io/badge/Vue.js-4FC08?style=for-the-badge&logo=vuedotjs&logoColor=fff)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) ![VueJS](https://img.shields.io/badge/Vue.js-4FC08?style=for-the-badge&logo=vuedotjs&logoColor=fff) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 </div>
 
